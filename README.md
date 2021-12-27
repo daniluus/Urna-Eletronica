@@ -1,4 +1,4 @@
-# Urna-Eletronica
+# Urna-Eletrônica
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55250414/147486291-1cb83d31-a025-46ba-89f2-b6895ae8753c.gif" alt="Urna Preview"/>
